@@ -1,0 +1,8 @@
+application-dev:
+  yaml:
+spring:
+  application:
+    name: greeting-service
+greeting-service:
+  greeting: "Olá"
+  default-value: "Mundo"
